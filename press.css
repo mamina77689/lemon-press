@@ -1,0 +1,525 @@
+.map {
+  background-image: url(/images/aimguud.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.title {
+  background-image: url(Screenshot\ 2024-06-27\ at\ 16.03.33.png);
+  width: 15px;
+  margin: 56px;
+}
+.ms2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.unshaad-uzi {
+  background-color: blue;
+  color: aliceblue;
+  height: 60px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.rowsContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
+.row span {
+  font-weight: 700;
+}
+.hagas-jil {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.hagas {
+  background-image: url(/images/hagas\ jiliin\ ongo.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 190px;
+  display: flex;
+  flex-direction: row;
+}
+.border {
+  border-bottom-style: groove;
+}
+.container {
+  width: 380px;
+  height: 380px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+}
+
+.huree {
+  border-bottom: 1px solid grey;
+}
+.date {
+  color: gray;
+  font-size: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.ugnuud {
+  color: white;
+  border-bottom-style: groove;
+}
+.uyangaa {
+  background-image: url(/images/uyangahishig.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 380px;
+  width: 380px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.news {
+  background-image: url(/images/news.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 380px;
+  width: 380px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.email {
+  background-color: blue;
+  width: 1180px;
+  height: 309px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whitemail {
+  background-color: white;
+  width: 85%;
+  height: 229px;
+}
+.nairamdal {
+  background-image: url(images/nairamdal.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.park {
+  background-image: url(/images/paark.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.uurhai {
+  background-image: url(images/uurhai.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.buren {
+  background-image: url(images/buren.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.road {
+  background-image: url(images/zam.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.hariltsaa {
+  background-image: url(images/hariltsaa.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.people {
+  background-image: url(images/humuus.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.blue {
+  color: blue;
+  font-size: 14px;
+  font-weight: 41px;
+  margin: 15px;
+}
+.ug {
+  font-size: 21px;
+  font-weight: 333px;
+  margin: 15px;
+}
+.boorder {
+  border: 1px solid rgb(214, 210, 210);
+  margin: 20px;
+}
+.aylal {
+  background-image: url(images/aylal.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 380px;
+  height: 265px;
+}
+
+.ooha {
+  background-image: url(images/ooha.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 380px;
+  height: 265px;
+}
+.hogjliin-bank {
+  background-image: url(images/bank.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 378px;
+  height: 222px;
+}
+.greyword {
+  color: grey;
+  font-size: 16px;
+  margin: 15px;
+}
+.map2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.hotel {
+  background-image: url(images/capsul-hotel.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 378px;
+  height: 222px;
+}
+.herguud {
+  background-image: url(images/herguud.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 378px;
+  height: 222px;
+}
+.buren2 {
+  background-image: url(images/burenskor.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.horongo-oruulalt {
+  background-image: url(images/horongo.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.google {
+  background-image: url(images/google-challenge.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 222px;
+}
+.euro2024 {
+  background-image: url(images/euro2024.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.ediin-zasag {
+  background-image: url(images/ediin-zasag.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.zeeljih {
+  background-image: url(images/zeeljih-zereglel.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.bair-suuri {
+  background-image: url(images/bair\ suuri.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.hariltsaa2 {
+  background-image: url(images/hariltsaa.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.uzbek {
+  background-image: url(images/uzbekistan.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.zeel3 {
+  background-image: url(images/buren.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.cola2 {
+  background-image: url(images/cola.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 222px;
+}
+.ending {
+  background-color: rgb(3, 70, 225);
+  width: 100vw;
+  height: 396px;
+}
+.logonuud {
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+  gap: 40px;
+}
+.lemonpress-white {
+  background-image: url(images/lemonpress-white.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 22px;
+}
+.uul {
+  background-image: url(/images/Screenshot\ 2024-07-17\ at\ 16.19.11.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 130px;
+  height: 28px;
+}
+.lemonade {
+  background-color: gold;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+}
+.songuuli {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+.songuuli-font {
+  font-size: 40px;
+  margin: 8px;
+}
+.first-pilot {
+  background-color: rgb(226, 226, 226);
+  width: 1095px;
+  display: flex;
+  align-items: center;
+}
+.lemonade-butets {
+  display: flex;
+  flex-direction: row;
+  height: 36px;
+}
+.uls-tor {
+  color: blue;
+  margin: 10px;
+}
+.all-options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.many-countries {
+  color: blue;
+  margin: 10px;
+}
+.locations-of-the-options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.locations2-of-the-options {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.songuuli2024 {
+  display: flex;
+  gap: 10px;
+}
+.date {
+  color: darkgrey;
+  margin: 10px;
+}
+.date2 {
+  color: darkgrey;
+  margin: 10px;
+}
+.tailan {
+  color: blue;
+  align-items: end;
+  margin: 15px;
+  font-size: 10px;
+}
+.ailchlal {
+  font-size: 18px;
+  margin: 15px;
+}
+.togtvortoi-hogjil {
+  font-size: 17px;
+  margin: 15px;
+}
+.date3 {
+  color: darkgrey;
+  margin: 10px;
+}
+.zah-zeel {
+  color: blue;
+  margin: 15px;
+  font-size: 10px;
+}
+.tovhimluud {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  height: 400px;
+  margin: 50px;
+}
+.newsletter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: rgba(158, 156, 156, 0.567);
+}
+.horongo-oruulalt-biznes {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 35px;
+  font-weight: 300px;
+}
+.unshad-uzi {
+  border: 1px solid blue;
+  width: fit-content;
+}
+.hevleliin-medee {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
+.uyangahishig {
+  font-size: 25px;
+  font-weight: 96px;
+}
+.business {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.hevleliin-medee2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.ediin-zasag2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.olon-uls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.ad {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.news2 {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgb(208, 205, 205);
+  margin: 20px;
+  width: 778px;
+}
+.email-tovhimol {
+  color: rgb(151, 150, 150);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ending2 {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid grey;
+}
+.ending3 {
+  gap: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.iluu-uzeh {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  width: 1180px;
+}
+.more {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.business2 {
+  font-size: 36px;
+  font-weight: 79px;
+}
+.ilu-uzeh {
+  font-weight: 59px;
+}
+.bugd {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.interview {
+  font-size: 11px;
+  font-weight: 51px;
+}
+.uyangaaa {
+  display: flex;
+  justify-content: start;
+  align-items: end;
+  margin: 5px;
+}
